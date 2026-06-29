@@ -7,7 +7,7 @@
     },
     {
       "source": "/tg/:path*",
-      "destination": "https://api.telegram.org*"
+      "destination": "https://api.telegram.org/:path*"
     }
   ]
 }
